@@ -1,0 +1,12 @@
+ARRL International DX Contest CW
+
+CALLSIGN: AC2RK  Band: 80m
+
+    DATE    TIME       FREQ     CALL           RCVD          PTS  MULTS
+
+2016-02-21 00:08:33   3536.000  PJ2T           599  1000      3  PJ2  
+
+Page 1 Totals: QSOs: 1  Points: 3  Countries: 1
+
+Cumulative Totals: QSOs: 1  Points: 3  Countries: 1
+

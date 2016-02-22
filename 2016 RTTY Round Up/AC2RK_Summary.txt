@@ -1,0 +1,35 @@
+                        Score Summary Sheet
+
+                CALLSIGN: AC2RK
+                LOCATION: FM29rl
+                 CONTEST: ARRL-RTTY
+       CATEGORY-OPERATOR: SINGLE-OP
+           CATEGORY-BAND: ALL
+          CATEGORY-POWER: LOW
+           CATEGORY-MODE: RTTY
+       CATEGORY-ASSISTED: NON-ASSISTED
+    CATEGORY-TRANSMITTER: ONE
+           CATEGORY-TIME: 24-HOURS
+        CATEGORY-STATION: FIXED
+           CLAIMED-SCORE: 6210
+                    CLUB: Southern Counties Amateur Radio Association
+              CREATED-BY: RUMped Ver. 3.2.13  by Tom, DL2RUM
+                    NAME: Mike Greb
+                 ADDRESS: 221 Great Creek Rd
+                 ADDRESS: Galloway Twp, NJ 08205
+                 ADDRESS: USA
+               OPERATORS: AC2RK
+          OPERATING TIME: 6.7 hours
+
+                  Result: 135 QSO Pts x 46 Mpl = 6,210 Total
+
+
+       Band      QSOs    RX_Num      DXCC    Points     Total
+       ------------------------------------------------------
+       80m:        40        11         0        40        40
+       40m:        38         7         2        38        38
+       20m:        42        15         1        42        43
+       15m:        10         6         1        10        10
+       10m:         5         2         1         5         5
+
+       Sum:       135        41         5       135       136
